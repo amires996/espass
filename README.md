@@ -1,6 +1,8 @@
 # ESPass 🔐
 ### Your passwords. Your device. Your control.
 
+https://pin.it/5uiNRaDH4
+
 **ESPass** is a modern, local-first desktop password manager built with Python, PySide6, SQLite, Argon2id, and AES-256-GCM.
 
 Designed for privacy, simplicity, and security, ESPass keeps your credentials encrypted locally while providing a polished desktop experience on Windows, Linux, and macOS.
